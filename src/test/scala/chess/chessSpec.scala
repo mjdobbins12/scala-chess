@@ -32,4 +32,23 @@ class ChessSpec extends FunSpec {
       assert(r.legalMove((5, 3)) == false)
     }
   }
+  
+  describe("Bishop") {
+    it("is allowed to move diagonally") {
+      val b = Bishop("white", (2, 0))
+      assert(b.legalMove((0, 2)) == true)
+      assert(b.legalMove((4, 2)) == true)
+    }
+    
+    it("cannot move vertically or laterally") {
+      val b = Bishop("white", (2, 0))
+      assert(b.legalMove((2, 2)) == false)
+      assert(b.legalMove((4, 0)) == false)
+    }
+    
+    it("cannot move to a random square") {
+      val b = Bishop("white", (2, 0))
+      assert(b.legalMove((5, 6)) == false)
+    }
+  }
 }

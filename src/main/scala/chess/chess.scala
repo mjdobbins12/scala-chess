@@ -24,7 +24,11 @@ final case class Knight(color: String, position: Tuple2[Int, Int]) extends Piece
 }
 
 final case class Bishop(color: String, position: Tuple2[Int, Int]) extends Piece {
-	def legalMove(target: Tuple2[Int, Int]): Boolean = ???
+	def legalMove(target: Tuple2[Int, Int]): Boolean = target match {
+		case x if target == position => false
+		case x if (target._1 - position._1).abs == (target._2 - position._2).abs => true
+		case _ => false
+	}
 }
 
 final case class Queen(color: String, position: Tuple2[Int, Int]) extends Piece {
