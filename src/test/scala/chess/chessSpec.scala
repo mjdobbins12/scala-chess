@@ -51,4 +51,28 @@ class ChessSpec extends FunSpec {
       assert(b.legalMove((5, 6)) == false)
     }
   }
+  
+  describe("Knight") {
+    it("moves in its goofy manner") {
+      val k = Knight("white", (1, 0))
+      assert(k.legalMove((0, 2)) == true)
+      assert(k.legalMove((2, 2)) == true)
+    }
+    
+    it("cannot move like a rook") {
+      val k = Knight("white", (1, 0))
+      assert(k.legalMove((3, 0)) == false)
+      assert(k.legalMove((1, 3)) == false)
+    }
+    
+    it("cannot move diagonally") {
+      val k = Knight("white", (1, 0))
+      assert(k.legalMove((3, 2)) == false)
+    }
+    
+    it("cannot move to a random square") {
+      val k = Knight("white", (1, 0))
+      assert(k.legalMove((3, 6)) == false)
+    }
+  }
 }
