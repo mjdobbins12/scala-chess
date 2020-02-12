@@ -24,9 +24,8 @@ final case class Pawn(color: String, position: Tuple2[Int, Int]) extends Piece {
 }
 
 final case class Rook(color: String, position: Tuple2[Int, Int]) extends Piece {
-	def legalMove(target: Tuple2[Int, Int]): Boolean = {
+	def legalMove(target: Tuple2[Int, Int]): Boolean =
 		rectilinearMotion(position, target)
-	}
 }
 
 final case class Knight(color: String, position: Tuple2[Int, Int]) extends Piece {
@@ -39,13 +38,13 @@ final case class Knight(color: String, position: Tuple2[Int, Int]) extends Piece
 }
 
 final case class Bishop(color: String, position: Tuple2[Int, Int]) extends Piece {
-	def legalMove(target: Tuple2[Int, Int]): Boolean = {
+	def legalMove(target: Tuple2[Int, Int]): Boolean =
 		diagonalMotion(position, target)
-	}
 }
 
 final case class Queen(color: String, position: Tuple2[Int, Int]) extends Piece {
-	def legalMove(target: Tuple2[Int, Int]): Boolean = ???
+	def legalMove(target: Tuple2[Int, Int]): Boolean = 
+		diagonalMotion(position, target) || rectilinearMotion(position, target)
 }
 
 final case class King(color: String, position: Tuple2[Int, Int]) extends Piece {
