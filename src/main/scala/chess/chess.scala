@@ -48,5 +48,6 @@ final case class Queen(color: String, position: Tuple2[Int, Int]) extends Piece 
 }
 
 final case class King(color: String, position: Tuple2[Int, Int]) extends Piece {
-	def legalMove(target: Tuple2[Int, Int]): Boolean = ???
+	def legalMove(target: Tuple2[Int, Int]): Boolean = 
+		(diagonalMotion(position, target) || rectilinearMotion(position, target)) && (target._1 - position._1).abs <= 1 && (target._2 - position._2).abs <= 1
 }
