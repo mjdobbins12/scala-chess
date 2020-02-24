@@ -1,0 +1,5 @@
+package chess
+
+object Game {
+	
+}
