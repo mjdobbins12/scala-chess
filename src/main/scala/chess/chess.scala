@@ -18,7 +18,11 @@ sealed trait Piece {
 	}
 }
 
-final case class Pawn(position: Tuple2[Int, Int]) extends Piece {
+final case class BlackPawn(position: Tuple2[Int, Int]) extends Piece {
+	def legalMove(target: Tuple2[Int, Int]): Boolean = ???
+}
+
+final case class WhitePawn(position: Tuple2[Int, Int]) extends Piece {
 	def legalMove(target: Tuple2[Int, Int]): Boolean = ???
 }
 
