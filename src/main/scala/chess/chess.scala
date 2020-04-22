@@ -23,7 +23,12 @@ final case class BlackPawn(position: Tuple2[Int, Int]) extends Piece {
 }
 
 final case class WhitePawn(position: Tuple2[Int, Int]) extends Piece {
-	def legalMove(target: Tuple2[Int, Int]): Boolean = ???
+	def legalMove(target: Tuple2[Int, Int]): Boolean = target match {
+		case x if target == position => false
+		case x if target._1 == position._1 && (position._2 - target._2).abs == 1 => true
+		case x if target._1 == position._1 && (position._2 - target._2).abs == 2 && position._2 == 1 => true
+		case _ => false
+	}
 }
 
 final case class Rook(position: Tuple2[Int, Int]) extends Piece {

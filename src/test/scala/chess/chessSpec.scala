@@ -3,10 +3,35 @@ package chess
 import org.scalatest._
 
 class ChessSpec extends FunSpec {
-  describe("Pawn") {
-    it("has a location") {
-      val p = Pawn((0, 1))
-      assert(p.position == (0, 1))
+  describe("WhitePawn") {
+    it("can move forward two squares from its starting position") {
+      val p = WhitePawn((1, 1))
+      assert(p.legalMove((1, 3)) == true)
+    }
+
+    it("can move forward one square from its starting position") {
+      val p = WhitePawn((1, 1))
+      assert(p.legalMove((1, 2)) == true)
+    }
+
+    it("cannot move forward three squares") {
+      val p = WhitePawn((1, 1))
+      assert(p.legalMove((1, 4)) == false)
+    }
+
+    it("cannot move sideways") {
+      val p = WhitePawn((1, 1))
+      assert(p.legalMove((2, 1)) == false)
+    }
+
+    it("cannot move diagonally") {
+      val p = WhitePawn((1, 1))
+      assert(p.legalMove((2, 2)) == false)
+    }
+
+    it("cannot move to a random square") {
+      val p = WhitePawn((1, 1))
+      assert(p.legalMove((2, 5)) == false)
     }
   }
   
