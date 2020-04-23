@@ -2997,3 +2997,50 @@ INFO  compiling root (2 scala sources)
 INFO  time: compiled root in 7.16s
 Apr 22, 2020 1:06:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
 WARNING: Unmatched cancel notification for request id 160
+Apr 22, 2020 9:08:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 165
+INFO  compiling root-test (1 scala source)
+INFO  time: compiled root-test in 4.55s
+INFO  C:\Users\onefi\source\repos\scala-chess\src\test\scala\chess\chessSpec.scala:8:15: stale bloop error: not found: value Pawn
+      val p = Pawn((0, 1))
+              ^^^^
+INFO  C:\Users\onefi\source\repos\scala-chess\src\test\scala\chess\chessSpec.scala:8:15: stale bloop error: not found: value Pawn
+      val p = Pawn((0, 1))
+              ^^^^
+Apr 22, 2020 9:10:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 275
+ERROR code navigation does not work for the file 'C:\Users\onefi\source\repos\scala-chess\src\test\scala\chess\chessSpec.scala' because the SemanticDB file 'C:\Users\onefi\source\repos\scala-chess\.bloop\root\bloop-bsp-clients-classes\test-classes-Metals-C7EeUtT_TJCPPZkNGxT0mQ==\META-INF\semanticdb\src\test\scala\chess\chessSpec.scala.semanticdb' doesn't exist. There can be many reasons for this error. 
+ERROR code navigation does not work for the file 'C:\Users\onefi\source\repos\scala-chess\src\test\scala\chess\chessSpec.scala' because the SemanticDB file 'C:\Users\onefi\source\repos\scala-chess\.bloop\root\bloop-bsp-clients-classes\test-classes-Metals-C7EeUtT_TJCPPZkNGxT0mQ==\META-INF\semanticdb\src\test\scala\chess\chessSpec.scala.semanticdb' doesn't exist. There can be many reasons for this error. 
+ERROR code navigation does not work for the file 'C:\Users\onefi\source\repos\scala-chess\src\test\scala\chess\chessSpec.scala' because the SemanticDB file 'C:\Users\onefi\source\repos\scala-chess\.bloop\root\bloop-bsp-clients-classes\test-classes-Metals-C7EeUtT_TJCPPZkNGxT0mQ==\META-INF\semanticdb\src\test\scala\chess\chessSpec.scala.semanticdb' doesn't exist. There can be many reasons for this error. 
+ERROR code navigation does not work for the file 'C:\Users\onefi\source\repos\scala-chess\src\test\scala\chess\chessSpec.scala' because the SemanticDB file 'C:\Users\onefi\source\repos\scala-chess\.bloop\root\bloop-bsp-clients-classes\test-classes-Metals-C7EeUtT_TJCPPZkNGxT0mQ==\META-INF\semanticdb\src\test\scala\chess\chessSpec.scala.semanticdb' doesn't exist. There can be many reasons for this error. 
+ERROR code navigation does not work for the file 'C:\Users\onefi\source\repos\scala-chess\src\test\scala\chess\chessSpec.scala' because the SemanticDB file 'C:\Users\onefi\source\repos\scala-chess\.bloop\root\bloop-bsp-clients-classes\test-classes-Metals-C7EeUtT_TJCPPZkNGxT0mQ==\META-INF\semanticdb\src\test\scala\chess\chessSpec.scala.semanticdb' doesn't exist. There can be many reasons for this error. 
+ERROR code navigation does not work for the file 'C:\Users\onefi\source\repos\scala-chess\src\test\scala\chess\chessSpec.scala' because the SemanticDB file 'C:\Users\onefi\source\repos\scala-chess\.bloop\root\bloop-bsp-clients-classes\test-classes-Metals-C7EeUtT_TJCPPZkNGxT0mQ==\META-INF\semanticdb\src\test\scala\chess\chessSpec.scala.semanticdb' doesn't exist. There can be many reasons for this error. 
+INFO  compiling root-test (1 scala source)
+INFO  time: compiled root-test in 11s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 4.89s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 4.49s
+INFO  compiling root-test (1 scala source)
+INFO  time: compiled root-test in 4.99s
+INFO  shutting down Metals
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
+INFO  started: Metals version 0.8.4 in workspace 'C:\Users\onefi\source\repos\scala-chess'
+INFO  time: initialize in 4.05s
+INFO  skipping build import with status 'Installed'
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 33336'...
+Waiting for the bsp connection to come up...
+WARN  no build target for: C:\Users\onefi\source\repos\scala-chess\src\test\scala\chess\chessSpec.scala
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:33336...
+The server is listening for incoming connections at tcp://127.0.0.1:33336...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\onefi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+INFO  time: connected to build server in 4.17s
+INFO  Connected to Build server v1.4.0-RC1-190-ef7d8dba
+INFO  time: imported build in 0.23s
+INFO  time: indexed workspace in 6.09s

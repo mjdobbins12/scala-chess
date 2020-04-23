@@ -19,6 +19,11 @@ class ChessSpec extends FunSpec {
       assert(p.legalMove((1, 4)) == false)
     }
 
+    it("cannot move forward twice after the first move") {
+      val p = WhitePawn((1, 2))
+      assert(p.legalMove((1, 4)) == false)
+    }
+
     it("cannot move sideways") {
       val p = WhitePawn((1, 1))
       assert(p.legalMove((2, 1)) == false)
@@ -32,6 +37,43 @@ class ChessSpec extends FunSpec {
     it("cannot move to a random square") {
       val p = WhitePawn((1, 1))
       assert(p.legalMove((2, 5)) == false)
+    }
+  }
+
+  describe("BlackPawn") {
+    it("can move forward two squares from its starting position") {
+      val p = BlackPawn((1, 6))
+      assert(p.legalMove((1, 4)) == true)
+    }
+
+    it("can move forward one square from its starting position") {
+      val p = BlackPawn((1, 6))
+      assert(p.legalMove((1, 5)) == true)
+    }
+
+    it("cannot move forward three squares") {
+      val p = BlackPawn((1, 6))
+      assert(p.legalMove((1, 3)) == false)
+    }
+
+    it("cannot move forward twice after the first move") {
+      val p = BlackPawn((1, 5))
+      assert(p.legalMove((1, 3)) == false)
+    }
+
+    it("cannot move sideways") {
+      val p = BlackPawn((1, 6))
+      assert(p.legalMove((2, 6)) == false)
+    }
+
+    it("cannot move diagonally") {
+      val p = BlackPawn((1, 6))
+      assert(p.legalMove((2, 5)) == false)
+    }
+
+    it("cannot move to a random square") {
+      val p = BlackPawn((1, 6))
+      assert(p.legalMove((2, 0)) == false)
     }
   }
   
