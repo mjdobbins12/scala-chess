@@ -1,2150 +1,0 @@
-
-«Ω$src/test/scala/chess/chessSpec.scala*/
-local44 Ä*pÄä"
-chess/BlackPawn#*M
-local43 Ä*!$org_scalatest_assert_macro_rightÄä"
-scala/Boolean#*N
-local159 Ä*!$org_scalatest_assert_macro_rightÄä"
-scala/Boolean#*L
-local42 Ä* $org_scalatest_assert_macro_leftÄä"
-scala/Boolean#*M
-local158 Ä* $org_scalatest_assert_macro_leftÄä"
-scala/Boolean#*Q
-local41 Ä* $org_scalatest_assert_macro_exprÄä"
-org/scalactic/Bool#*R
-local157 Ä* $org_scalatest_assert_macro_exprÄä"
-org/scalactic/Bool#*/
-local48 Ä*pÄä"
-chess/BlackPawn#*M
-local47 Ä*!$org_scalatest_assert_macro_rightÄä"
-scala/Boolean#*L
-local46 Ä* $org_scalatest_assert_macro_leftÄä"
-scala/Boolean#*Q
-local45 Ä* $org_scalatest_assert_macro_exprÄä"
-org/scalactic/Bool#*+
-local152 Ä*kÄä"
-chess/King#*N
-local151 Ä*!$org_scalatest_assert_macro_rightÄä"
-scala/Boolean#*M
-local150 Ä* $org_scalatest_assert_macro_leftÄä"
-scala/Boolean#*/
-local40 Ä*pÄä"
-chess/BlackPawn#*+
-local156 Ä*kÄä"
-chess/King#*N
-local155 Ä*!$org_scalatest_assert_macro_rightÄä"
-scala/Boolean#*M
-local154 Ä* $org_scalatest_assert_macro_leftÄä"
-scala/Boolean#*R
-local153 Ä* $org_scalatest_assert_macro_exprÄä"
-org/scalactic/Bool#*Q
-local49 Ä* $org_scalatest_assert_macro_exprÄä"
-org/scalactic/Bool#*Q
-local33 Ä* $org_scalatest_assert_macro_exprÄä"
-org/scalactic/Bool#*/
-local32 Ä*pÄä"
-chess/BlackPawn#*M
-local31 Ä*!$org_scalatest_assert_macro_rightÄä"
-scala/Boolean#*L
-local30 Ä* $org_scalatest_assert_macro_leftÄä"
-scala/Boolean#*Q
-local37 Ä* $org_scalatest_assert_macro_exprÄä"
-org/scalactic/Bool#*/
-local36 Ä*pÄä"
-chess/BlackPawn#*M
-local35 Ä*!$org_scalatest_assert_macro_rightÄä"
-scala/Boolean#*L
-local34 Ä* $org_scalatest_assert_macro_leftÄä"
-scala/Boolean#*N
-local163 Ä*!$org_scalatest_assert_macro_rightÄä"
-scala/Boolean#*M
-local162 Ä* $org_scalatest_assert_macro_leftÄä"
-scala/Boolean#*R
-local161 Ä* $org_scalatest_assert_macro_exprÄä"
-org/scalactic/Bool#*+
-local160 Ä*kÄä"
-chess/King#*M
-local39 Ä*!$org_scalatest_assert_macro_rightÄä"
-scala/Boolean#*L
-local38 Ä* $org_scalatest_assert_macro_leftÄä"
-scala/Boolean#*L
-local66 Ä* $org_scalatest_assert_macro_leftÄä"
-scala/Boolean#*M
-local138 Ä* $org_scalatest_assert_macro_leftÄä"
-scala/Boolean#*Q
-local65 Ä* $org_scalatest_assert_macro_exprÄä"
-org/scalactic/Bool#*R
-local137 Ä* $org_scalatest_assert_macro_exprÄä"
-org/scalactic/Bool#**
-local64 Ä*rÄä"
-chess/Rook#*+
-local136 Ä*kÄä"
-chess/King#*M
-local63 Ä*!$org_scalatest_assert_macro_rightÄä"
-scala/Boolean#*N
-local135 Ä*!$org_scalatest_assert_macro_rightÄä"
-scala/Boolean#*Q
-local69 Ä* $org_scalatest_assert_macro_exprÄä"
-org/scalactic/Bool#**
-local68 Ä*rÄä"
-chess/Rook#*M
-local67 Ä*!$org_scalatest_assert_macro_rightÄä"
-scala/Boolean#*N
-local139 Ä*!$org_scalatest_assert_macro_rightÄä"
-scala/Boolean#*M
-local130 Ä* $org_scalatest_assert_macro_leftÄä"
-scala/Boolean#*L
-local62 Ä* $org_scalatest_assert_macro_leftÄä"
-scala/Boolean#*M
-local134 Ä* $org_scalatest_assert_macro_leftÄä"
-scala/Boolean#*Q
-local61 Ä* $org_scalatest_assert_macro_exprÄä"
-org/scalactic/Bool#*R
-local133 Ä* $org_scalatest_assert_macro_exprÄä"
-org/scalactic/Bool#**
-local60 Ä*rÄä"
-chess/Rook#*+
-local132 Ä*kÄä"
-chess/King#*N
-local131 Ä*!$org_scalatest_assert_macro_rightÄä"
-scala/Boolean#*M
-local55 Ä*!$org_scalatest_assert_macro_rightÄä"
-scala/Boolean#*R
-local149 Ä* $org_scalatest_assert_macro_exprÄä"
-org/scalactic/Bool#*L
-local54 Ä* $org_scalatest_assert_macro_leftÄä"
-scala/Boolean#*+
-local148 Ä*kÄä"
-chess/King#*Q
-local53 Ä* $org_scalatest_assert_macro_exprÄä"
-org/scalactic/Bool#*N
-local147 Ä*!$org_scalatest_assert_macro_rightÄä"
-scala/Boolean#*/
-local52 Ä*pÄä"
-chess/BlackPawn#*M
-local146 Ä* $org_scalatest_assert_macro_leftÄä"
-scala/Boolean#*M
-local59 Ä*!$org_scalatest_assert_macro_rightÄä"
-scala/Boolean#*L
-local58 Ä* $org_scalatest_assert_macro_leftÄä"
-scala/Boolean#*Q
-local57 Ä* $org_scalatest_assert_macro_exprÄä"
-org/scalactic/Bool#**
-local56 Ä*rÄä"
-chess/Rook#*R
-local141 Ä* $org_scalatest_assert_macro_exprÄä"
-org/scalactic/Bool#*+
-local140 Ä*kÄä"
-chess/King#*M
-local51 Ä*!$org_scalatest_assert_macro_rightÄä"
-scala/Boolean#*R
-local145 Ä* $org_scalatest_assert_macro_exprÄä"
-org/scalactic/Bool#*L
-local50 Ä* $org_scalatest_assert_macro_leftÄä"
-scala/Boolean#*+
-local144 Ä*kÄä"
-chess/King#*N
-local143 Ä*!$org_scalatest_assert_macro_rightÄä"
-scala/Boolean#*M
-local142 Ä* $org_scalatest_assert_macro_leftÄä"
-scala/Boolean#*L
-local88 Ä* $org_scalatest_assert_macro_leftÄä"
-scala/Boolean#*,
-local116 Ä*qÄä"
-chess/Queen#*Q
-local87 Ä* $org_scalatest_assert_macro_exprÄä"
-org/scalactic/Bool#*N
-local115 Ä*!$org_scalatest_assert_macro_rightÄä"
-scala/Boolean#*,
-local86 Ä*bÄä"
-chess/Bishop#*M
-local114 Ä* $org_scalatest_assert_macro_leftÄä"
-scala/Boolean#*M
-local85 Ä*!$org_scalatest_assert_macro_rightÄä"
-scala/Boolean#*R
-local113 Ä* $org_scalatest_assert_macro_exprÄä"
-org/scalactic/Bool#*N
-local119 Ä*!$org_scalatest_assert_macro_rightÄä"
-scala/Boolean#*M
-local118 Ä* $org_scalatest_assert_macro_leftÄä"
-scala/Boolean#*M
-local89 Ä*!$org_scalatest_assert_macro_rightÄä"
-scala/Boolean#*R
-local117 Ä* $org_scalatest_assert_macro_exprÄä"
-org/scalactic/Bool#*Q
-local80 Ä* $org_scalatest_assert_macro_exprÄä"
-org/scalactic/Bool#*L
-local84 Ä* $org_scalatest_assert_macro_leftÄä"
-scala/Boolean#*,
-local112 Ä*qÄä"
-chess/Queen#*Q
-local83 Ä* $org_scalatest_assert_macro_exprÄä"
-org/scalactic/Bool#*N
-local111 Ä*!$org_scalatest_assert_macro_rightÄä"
-scala/Boolean#*M
-local82 Ä*!$org_scalatest_assert_macro_rightÄä"
-scala/Boolean#*M
-local110 Ä* $org_scalatest_assert_macro_leftÄä"
-scala/Boolean#*L
-local81 Ä* $org_scalatest_assert_macro_leftÄä"
-scala/Boolean#*L
-local77 Ä* $org_scalatest_assert_macro_leftÄä"
-scala/Boolean#*N
-local127 Ä*!$org_scalatest_assert_macro_rightÄä"
-scala/Boolean#*Q
-local76 Ä* $org_scalatest_assert_macro_exprÄä"
-org/scalactic/Bool#*M
-local126 Ä* $org_scalatest_assert_macro_leftÄä"
-scala/Boolean#*M
-local75 Ä*!$org_scalatest_assert_macro_rightÄä"
-scala/Boolean#*R
-local125 Ä* $org_scalatest_assert_macro_exprÄä"
-org/scalactic/Bool#*L
-local74 Ä* $org_scalatest_assert_macro_leftÄä"
-scala/Boolean#*,
-local124 Ä*qÄä"
-chess/Queen#*,
-local79 Ä*bÄä"
-chess/Bishop#*R
-local129 Ä* $org_scalatest_assert_macro_exprÄä"
-org/scalactic/Bool#*M
-local78 Ä*!$org_scalatest_assert_macro_rightÄä"
-scala/Boolean#*,
-local128 Ä*qÄä"
-chess/Queen#*Q
-local73 Ä* $org_scalatest_assert_macro_exprÄä"
-org/scalactic/Bool#*N
-local123 Ä*!$org_scalatest_assert_macro_rightÄä"
-scala/Boolean#*,
-local72 Ä*bÄä"
-chess/Bishop#*M
-local122 Ä* $org_scalatest_assert_macro_leftÄä"
-scala/Boolean#*M
-local71 Ä*!$org_scalatest_assert_macro_rightÄä"
-scala/Boolean#*R
-local121 Ä* $org_scalatest_assert_macro_exprÄä"
-org/scalactic/Bool#*L
-local70 Ä* $org_scalatest_assert_macro_leftÄä"
-scala/Boolean#*,
-local120 Ä*qÄä"
-chess/Queen#*P
-local1 Ä* $org_scalatest_assert_macro_exprÄä"
-org/scalactic/Bool#*K
-local2 Ä* $org_scalatest_assert_macro_leftÄä"
-scala/Boolean#*.
-local0 Ä*pÄä"
-chess/WhitePawn#*P
-local9 Ä* $org_scalatest_assert_macro_exprÄä"
-org/scalactic/Bool#*L
-local7 Ä*!$org_scalatest_assert_macro_rightÄä"
-scala/Boolean#*;
-chess/ChessSpec#`<init>`(). Ä@*<init>Ää
-  í: *.
-local8 Ä*pÄä"
-chess/WhitePawn#*P
-local5 Ä* $org_scalatest_assert_macro_exprÄä"
-org/scalactic/Bool#*K
-local6 Ä* $org_scalatest_assert_macro_leftÄä"
-scala/Boolean#*L
-local3 Ä*!$org_scalatest_assert_macro_rightÄä"
-scala/Boolean#*.
-local4 Ä*pÄä"
-chess/WhitePawn#*L
-local22 Ä* $org_scalatest_assert_macro_leftÄä"
-scala/Boolean#*Q
-local21 Ä* $org_scalatest_assert_macro_exprÄä"
-org/scalactic/Bool#*/
-local20 Ä*pÄä"
-chess/WhitePawn#*L
-local26 Ä* $org_scalatest_assert_macro_leftÄä"
-scala/Boolean#*Q
-local25 Ä* $org_scalatest_assert_macro_exprÄä"
-org/scalactic/Bool#*/
-local24 Ä*pÄä"
-chess/WhitePawn#*M
-local23 Ä*!$org_scalatest_assert_macro_rightÄä"
-scala/Boolean#*i
-chess/ChessSpec#*	ChessSpecÄä?
-=
- org/scalatest/FunSpec#"
-chess/ChessSpec#`<init>`().í: *Q
-local29 Ä* $org_scalatest_assert_macro_exprÄä"
-org/scalactic/Bool#*/
-local28 Ä*pÄä"
-chess/BlackPawn#*M
-local27 Ä*!$org_scalatest_assert_macro_rightÄä"
-scala/Boolean#*M
-local11 Ä*!$org_scalatest_assert_macro_rightÄä"
-scala/Boolean#*L
-local99 Ä* $org_scalatest_assert_macro_leftÄä"
-scala/Boolean#*R
-local105 Ä* $org_scalatest_assert_macro_exprÄä"
-org/scalactic/Bool#*L
-local10 Ä* $org_scalatest_assert_macro_leftÄä"
-scala/Boolean#*Q
-local98 Ä* $org_scalatest_assert_macro_exprÄä"
-org/scalactic/Bool#*-
-local104 Ä*kÄä"
-chess/Knight#*,
-local97 Ä*kÄä"
-chess/Knight#*N
-local103 Ä*!$org_scalatest_assert_macro_rightÄä"
-scala/Boolean#*M
-local96 Ä*!$org_scalatest_assert_macro_rightÄä"
-scala/Boolean#*M
-local102 Ä* $org_scalatest_assert_macro_leftÄä"
-scala/Boolean#*M
-local15 Ä*!$org_scalatest_assert_macro_rightÄä"
-scala/Boolean#*R
-local109 Ä* $org_scalatest_assert_macro_exprÄä"
-org/scalactic/Bool#*L
-local14 Ä* $org_scalatest_assert_macro_leftÄä"
-scala/Boolean#*-
-local108 Ä*kÄä"
-chess/Knight#*Q
-local13 Ä* $org_scalatest_assert_macro_exprÄä"
-org/scalactic/Bool#*N
-local107 Ä*!$org_scalatest_assert_macro_rightÄä"
-scala/Boolean#*/
-local12 Ä*pÄä"
-chess/WhitePawn#*M
-local106 Ä* $org_scalatest_assert_macro_leftÄä"
-scala/Boolean#*Q
-local91 Ä* $org_scalatest_assert_macro_exprÄä"
-org/scalactic/Bool#*,
-local90 Ä*kÄä"
-chess/Knight#*L
-local95 Ä* $org_scalatest_assert_macro_leftÄä"
-scala/Boolean#*R
-local101 Ä* $org_scalatest_assert_macro_exprÄä"
-org/scalactic/Bool#*Q
-local94 Ä* $org_scalatest_assert_macro_exprÄä"
-org/scalactic/Bool#*N
-local100 Ä*!$org_scalatest_assert_macro_rightÄä"
-scala/Boolean#*M
-local93 Ä*!$org_scalatest_assert_macro_rightÄä"
-scala/Boolean#*L
-local92 Ä* $org_scalatest_assert_macro_leftÄä"
-scala/Boolean#*M
-local19 Ä*!$org_scalatest_assert_macro_rightÄä"
-scala/Boolean#*L
-local18 Ä* $org_scalatest_assert_macro_leftÄä"
-scala/Boolean#*Q
-local17 Ä* $org_scalatest_assert_macro_exprÄä"
-org/scalactic/Bool#*/
-local16 Ä*pÄä"
-chess/WhitePawn#2
-
-ú
-ú local1202*
-!! chess/WhitePawn#legalMove().2+
- org/scalatest/FunSpecLike#it.2
- 
-org/20
--- "org/scalatest/Assertions#assert().2+
-$$ org/scalatest/FunSpecLike#it.2
- org/scalatest/2
-
-ÀÀ chess/King.2
-
-≥≥ local1362
-&& local242
-
-ÄÄ chess/Knight.2
- chess/WhitePawn.22
-
-ßß "org/scalatest/Assertions#assert().2
-
-ÆÆ local1322
-
-≠
-≠ local1322
-   chess/WhitePawn.2
-
- local02#
-! #scala/Boolean#`==`().20
-{{ "org/scalatest/Assertions#assert().2-
-
-¨¨ org/scalatest/FunSpecLike#it.2)
- chess/ChessSpec#`<init>`().2
-@
-@ local442*
-FF chess/BlackPawn#legalMove().20
-\\ "org/scalatest/Assertions#assert().2
-<< local402
-[[ chess/Rook.2
-
-ãã chess/Knight.2*
-AA chess/BlackPawn#legalMove().2
-
-¬¬ local1482)
-
-åå chess/Knight#legalMove().2
-6
-6 local362
-
-í
-í local1122#
-W!W #scala/Boolean#`==`().2'
-
-≥≥ chess/King#legalMove().2'
-
-ÃÃ chess/King#legalMove().2+
-DD org/scalatest/FunSpecLike#it.20
- "org/scalatest/Assertions#assert().2
-%% chess/WhitePawn.2-
-
-ññ org/scalatest/FunSpecLike#it.2
-RR local562%
-
-Å!Å #scala/Boolean#`==`().2
-66 chess/BlackPawn.22
-
-ÆÆ "org/scalatest/Assertions#assert().2
--- local282
-
-ßß local12820
-aa "org/scalatest/Assertions#assert().2
-tt local862+
- org/scalatest/FunSpecLike#it.2%
-WW chess/Rook#legalMove().2
-QQ chess/Rook.2#
-K!K #scala/Boolean#`==`().2(
-
-¢¢ chess/Queen#legalMove().2
-
-À
-À local1562#
-o!o #scala/Boolean#`==`().2-
-
-¿¿ org/scalatest/FunSpecLike#it.2+
-yy org/scalatest/FunSpecLike#it.2#
-! #scala/Boolean#`==`().2#
-2!2 #scala/Boolean#`==`().2)
-
-áá chess/Knight#legalMove().2
-@@ chess/BlackPawn.2
-22 local322$
- org/scalatest/FunSpec#20
-77 "org/scalatest/Assertions#assert().2
-
-ÜÜ chess/Knight.2%
-
-ì!ì #scala/Boolean#`==`().2%
-
-∏!∏ #scala/Boolean#`==`().2
-
- local162
-
-∆
-∆ local1522
-
-∑
-∑ local1402*
- chess/WhitePawn#legalMove().2
-hh local7220
-FF "org/scalatest/Assertions#assert().2
-11 chess/BlackPawn.2
- chess/22
-
-åå "org/scalatest/Assertions#assert().20
-RR "org/scalatest/Assertions#assert().22
-
-¢¢ "org/scalatest/Assertions#assert().2
-
- local122+
-ll org/scalatest/FunSpecLike#it.2
-KK local522%
-
-Æ!Æ #scala/Boolean#`==`().2
-WW local602+
-ZZ org/scalatest/FunSpecLike#it.2%
-
-¢!¢ #scala/Boolean#`==`().2'
-
-¬¬ chess/King#legalMove().22
-
-≥≥ "org/scalatest/Assertions#assert().2#
-h!h #scala/Boolean#`==`().2
- chess/WhitePawn.2
-nn local792%
-RR chess/Rook#legalMove().2
-
-¡¡ chess/King.2#
-<!< #scala/Boolean#`==`().2#
-{!{ #scala/Boolean#`==`().23
-OO 
-%org/scalatest/FunSpecLike#describe().2%
-
-≥!≥ #scala/Boolean#`==`().2
- local122
-
-°° chess/Queen.2'
-hh chess/Bishop#legalMove().2-
-
-ää org/scalatest/FunSpecLike#it.2%
-
-¬!¬ #scala/Boolean#`==`().2
-;
-; local402
- local820
-KK "org/scalatest/Assertions#assert().23
-xx 
-%org/scalatest/FunSpecLike#describe().23
- 
-%org/scalatest/FunSpecLike#describe().2
-ii local722(
-
-ìì chess/Queen#legalMove().2%
-
-Ω!Ω #scala/Boolean#`==`().2#
-! #scala/Boolean#`==`().2
-VV chess/Rook.2
- chess/WhitePawn.2+
-ff org/scalatest/FunSpecLike#it.2*
-<< chess/BlackPawn#legalMove().2%
-
-å!å #scala/Boolean#`==`().2%
-
-Ã!Ã #scala/Boolean#`==`().2
-g
-g local7220
- "org/scalatest/Assertions#assert().2
-
-°
-° local1242%
-
-ß!ß #scala/Boolean#`==`().2
-
-–– chess/King.2-
-
-œœ org/scalatest/FunSpecLike#it.22
-
-«« "org/scalatest/Assertions#assert().2-
-
-õõ org/scalatest/FunSpecLike#it.2+
- org/scalatest/FunSpecLike#it.2'
-
-—— chess/King#legalMove().2-
-
-±± org/scalatest/FunSpecLike#it.2
-[
-[ local642
-E
-E local482#
-! #scala/Boolean#`==`().20
-oo "org/scalatest/Assertions#assert().2
-
-óó chess/Queen.2
-z
-z local9020
- "org/scalatest/Assertions#assert().2
-
-åå local1082
-;; chess/BlackPawn.2#
-t!t #scala/Boolean#`==`().20
- "org/scalatest/Assertions#assert().20
-!! "org/scalatest/Assertions#assert().2
-`` chess/Rook.2
-
-∏∏ local1402%
-
-—!— #scala/Boolean#`==`().2'
-tt chess/Bishop#legalMove().2#
-A!A #scala/Boolean#`==`().2-
-
-   org/scalatest/FunSpecLike#it.2+
-UU org/scalatest/FunSpecLike#it.2
- chess/WhitePawn.2
-
- local42
-,, chess/BlackPawn.2
-
-¶
-¶ local12820
-AA "org/scalatest/Assertions#assert().2-
-
-ÖÖ org/scalatest/FunSpecLike#it.2#
-n!n #scala/Boolean#`==`().2
-
-∆∆ chess/King.2%
-
-«!« #scala/Boolean#`==`().2
-JJ chess/BlackPawn.2
-J
-J local522%
-aa chess/Rook#legalMove().2+
-II org/scalatest/FunSpecLike#it.25
-
-´´ 
-%org/scalatest/FunSpecLike#describe().2)
-
-ÅÅ chess/Knight#legalMove().20
-tt "org/scalatest/Assertions#assert().2#
-\!\ #scala/Boolean#`==`().2-
-
-†† org/scalatest/FunSpecLike#it.2
-
-∑∑ chess/King.20
-22 "org/scalatest/Assertions#assert().2*
--- chess/BlackPawn#legalMove().22
-
-òò "org/scalatest/Assertions#assert().2+
-55 org/scalatest/FunSpecLike#it.2
-EE chess/BlackPawn.2
-
-¶¶ chess/Queen.2'
-oo chess/Bishop#legalMove().2+
-?? org/scalatest/FunSpecLike#it.2
-zz chess/Knight.2'
-|| chess/Knight#legalMove().2#
-a!a #scala/Boolean#`==`().2#
-&!& #scala/Boolean#`==`().2
-
-¡
-¡ local1482%
-
-ù!ù #scala/Boolean#`==`().2
-
-ÃÃ local1562+
- org/scalatest/FunSpecLike#it.2-
-
-∂∂ org/scalatest/FunSpecLike#it.2'
-
-ÆÆ chess/King#legalMove().2#
-|!| #scala/Boolean#`==`().20
-<< "org/scalatest/Assertions#assert().2
-
-Ä
-Ä local972(
-
-ßß chess/Queen#legalMove().25
-
-êê 
-%org/scalatest/FunSpecLike#describe().2
-V
-V local602)
-
-ÇÇ chess/Knight#legalMove().2
-ss chess/Bishop.2#
-i!i #scala/Boolean#`==`().2
-
- local822
-
-ìì "org/scalatest/Assertions#assert().2+
-__ org/scalatest/FunSpecLike#it.2
-FF local482
-
-–
-– local1602+
- org/scalatest/FunSpecLike#it.2
- local42
-
-òò local1162
-!! local202(
-
-òò chess/Queen#legalMove().2-
-
-•• org/scalatest/FunSpecLike#it.2
-\\ local642
-
-≠≠ chess/King.2#
-R!R #scala/Boolean#`==`().2'
-{{ chess/Knight#legalMove().23
-ee 
-%org/scalatest/FunSpecLike#describe().2-
-
-ëë org/scalatest/FunSpecLike#it.2+
- org/scalatest/FunSpecLike#it.2
-
-íí chess/Queen.2*
-&& chess/WhitePawn#legalMove().20
-&& "org/scalatest/Assertions#assert().2*
- chess/WhitePawn#legalMove().2
-`
-` local6820
-nn "org/scalatest/Assertions#assert().2%
-
-Ç!Ç #scala/Boolean#`==`().2%
-
-á!á #scala/Boolean#`==`().2#
-!!! #scala/Boolean#`==`().2
-AA local4420
-hh "org/scalatest/Assertions#assert().2
-
-≤≤ chess/King.22
-
-∏∏ "org/scalatest/Assertions#assert().2'
-ii chess/Bishop#legalMove().2
- local02+
-++ org/scalatest/FunSpecLike#it.22
-
-ÇÇ "org/scalatest/Assertions#assert().2
-
-—— local1602
-
-úú chess/Queen.20
-ii "org/scalatest/Assertions#assert().2/
-   !org/scalatest/FunSpec#`<init>`().2*
- chess/WhitePawn#legalMove().2
-
-ÅÅ local972
-
-áá local1042*
-22 chess/BlackPawn#legalMove().2'
-
-∏∏ chess/King#legalMove().2
-m
-m local7922
-
-áá "org/scalatest/Assertions#assert().2
-{{ local902
-
-¢¢ local1242*
- chess/WhitePawn#legalMove().2
-
-º
-º local1442
-,
-, local2820
-|| "org/scalatest/Assertions#assert().2
-
-ìì local11222
-
-—— "org/scalatest/Assertions#assert().2
-
-ó
-ó local1162'
-nn chess/Bishop#legalMove().2'
-
-ΩΩ chess/King#legalMove().2*
-KK chess/BlackPawn#legalMove().2*
- chess/WhitePawn#legalMove().2+
- org/scalatest/FunSpecLike#it.2
-
-ùù local1202#
-! #scala/Boolean#`==`().2
-
-ÇÇ local9722
-
-ÅÅ "org/scalatest/Assertions#assert().2
-oo local7920
- "org/scalatest/Assertions#assert().2
-
-ã
-ã local1082%
-\\ chess/Rook#legalMove().2
-mm chess/Bishop.2
-gg chess/Bishop.2%
-
-ò!ò #scala/Boolean#`==`().2#
--!- #scala/Boolean#`==`().2#
-7!7 #scala/Boolean#`==`().2
- chess/WhitePawn.22
-
-¬¬ "org/scalatest/Assertions#assert().22
-
-ÃÃ "org/scalatest/Assertions#assert().2+
-00 org/scalatest/FunSpecLike#it.2
-Q
-Q local562
-aa local682
-s
-s local8622
-
-ΩΩ "org/scalatest/Assertions#assert().2#
-F!F #scala/Boolean#`==`().2(
-
-ùù chess/Queen#legalMove().2'
-
-«« chess/King#legalMove().2
- 
-  local202
-1
-1 local322*
-77 chess/BlackPawn#legalMove().23
-** 
-%org/scalatest/FunSpecLike#describe().2
-
-Ü
-Ü local1042
-77 local3622
-
-ùù "org/scalatest/Assertions#assert().2
-
-ºº chess/King.2+
-PP org/scalatest/FunSpecLike#it.2
-%
-% local242
-|| local902-
-
-≈≈ org/scalatest/FunSpecLike#it.2
- local162
-
-ΩΩ local1442-
-
-ªª org/scalatest/FunSpecLike#it.2
-
-≤
-≤ local13620
-WW "org/scalatest/Assertions#assert().2+
-rr org/scalatest/FunSpecLike#it.2
- chess/ChessSpec#2+
-:: org/scalatest/FunSpecLike#it.2
-
-«« local152PZ D71ED9140AF4223CCE330B3EEACF2ECBbx
-( l
-j
-2
-
-( Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bx
-	 l
-j
-2
-
-	 Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bI
- =:;
-2
-
- +
-)org/scalatest/FunSpecLike#ItWord#apply().b8
- ,:*
-2
-
- 
-chess/WhitePawn.apply().b°
- )î
-ë
-2
-
- )%#
-!org/scalactic/Prettifier.default.Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bx
- l
-j
-2
-
- Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bI
- =:;
-2
-
- +
-)org/scalatest/FunSpecLike#ItWord#apply().b8
- ,:*
-2
-
- 
-chess/WhitePawn.apply().b°
- )î
-ë
-2
-
- )%#
-!org/scalactic/Prettifier.default.Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bx
- l
-j
-2
-
- Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bI
- =:;
-2
-
- +
-)org/scalatest/FunSpecLike#ItWord#apply().b8
- ,:*
-2
-
- 
-chess/WhitePawn.apply().b°
- *î
-ë
-2
-
- *%#
-!org/scalactic/Prettifier.default.Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bx
- l
-j
-2
-
- Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bI
- =:;
-2
-
- +
-)org/scalatest/FunSpecLike#ItWord#apply().b8
- ,:*
-2
-
- 
-chess/WhitePawn.apply().b°
- *î
-ë
-2
-
- *%#
-!org/scalactic/Prettifier.default.Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bx
- l
-j
-2
-
- Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bI
- =:;
-2
-
- +
-)org/scalatest/FunSpecLike#ItWord#apply().b8
- ,:*
-2
-
- 
-chess/WhitePawn.apply().b°
- *î
-ë
-2
-
- *%#
-!org/scalactic/Prettifier.default.Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bx
-" l
-j
-2
-
-" Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bI
- =:;
-2
-
- +
-)org/scalatest/FunSpecLike#ItWord#apply().b8
-   ,:*
-2
-
-   
-chess/WhitePawn.apply().b°
-!! *î
-ë
-2
-
-!! *%#
-!org/scalactic/Prettifier.default.Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bx
-$' l
-j
-2
-
-$' Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bI
-$$ =:;
-2
-
-$$ +
-)org/scalatest/FunSpecLike#ItWord#apply().b8
-%% ,:*
-2
-
-%% 
-chess/WhitePawn.apply().b°
-&& *î
-ë
-2
-
-&& *%#
-!org/scalactic/Prettifier.default.Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bx
-*M l
-j
-2
-
-*M Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bx
-+. l
-j
-2
-
-+. Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bI
-++ =:;
-2
-
-++ +
-)org/scalatest/FunSpecLike#ItWord#apply().b8
-,, ,:*
-2
-
-,, 
-chess/BlackPawn.apply().b°
--- )î
-ë
-2
-
--- )%#
-!org/scalactic/Prettifier.default.Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bx
-03 l
-j
-2
-
-03 Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bI
-00 =:;
-2
-
-00 +
-)org/scalatest/FunSpecLike#ItWord#apply().b8
-11 ,:*
-2
-
-11 
-chess/BlackPawn.apply().b°
-22 )î
-ë
-2
-
-22 )%#
-!org/scalactic/Prettifier.default.Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bx
-58 l
-j
-2
-
-58 Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bI
-55 =:;
-2
-
-55 +
-)org/scalatest/FunSpecLike#ItWord#apply().b8
-66 ,:*
-2
-
-66 
-chess/BlackPawn.apply().b°
-77 *î
-ë
-2
-
-77 *%#
-!org/scalactic/Prettifier.default.Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bx
-:= l
-j
-2
-
-:= Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bI
-:: =:;
-2
-
-:: +
-)org/scalatest/FunSpecLike#ItWord#apply().b8
-;; ,:*
-2
-
-;; 
-chess/BlackPawn.apply().b°
-<< *î
-ë
-2
-
-<< *%#
-!org/scalactic/Prettifier.default.Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bx
-?B l
-j
-2
-
-?B Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bI
-?? =:;
-2
-
-?? +
-)org/scalatest/FunSpecLike#ItWord#apply().b8
-@@ ,:*
-2
-
-@@ 
-chess/BlackPawn.apply().b°
-AA *î
-ë
-2
-
-AA *%#
-!org/scalactic/Prettifier.default.Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bx
-DG l
-j
-2
-
-DG Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bI
-DD =:;
-2
-
-DD +
-)org/scalatest/FunSpecLike#ItWord#apply().b8
-EE ,:*
-2
-
-EE 
-chess/BlackPawn.apply().b°
-FF *î
-ë
-2
-
-FF *%#
-!org/scalactic/Prettifier.default.Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bx
-IL l
-j
-2
-
-IL Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bI
-II =:;
-2
-
-II +
-)org/scalatest/FunSpecLike#ItWord#apply().b8
-JJ ,:*
-2
-
-JJ 
-chess/BlackPawn.apply().b°
-KK *î
-ë
-2
-
-KK *%#
-!org/scalactic/Prettifier.default.Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bx
-Oc l
-j
-2
-
-Oc Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bx
-PS l
-j
-2
-
-PS Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bI
-PP =:;
-2
-
-PP +
-)org/scalatest/FunSpecLike#ItWord#apply().b3
-QQ ':%
-2
-
-QQ 
-chess/Rook.apply().b°
-RR )î
-ë
-2
-
-RR )%#
-!org/scalactic/Prettifier.default.Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bx
-UX l
-j
-2
-
-UX Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bI
-UU =:;
-2
-
-UU +
-)org/scalatest/FunSpecLike#ItWord#apply().b3
-VV ':%
-2
-
-VV 
-chess/Rook.apply().b°
-WW )î
-ë
-2
-
-WW )%#
-!org/scalactic/Prettifier.default.Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bx
-Z] l
-j
-2
-
-Z] Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bI
-ZZ =:;
-2
-
-ZZ +
-)org/scalatest/FunSpecLike#ItWord#apply().b3
-[[ ':%
-2
-
-[[ 
-chess/Rook.apply().b°
-\\ *î
-ë
-2
-
-\\ *%#
-!org/scalactic/Prettifier.default.Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bx
-_b l
-j
-2
-
-_b Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bI
-__ =:;
-2
-
-__ +
-)org/scalatest/FunSpecLike#ItWord#apply().b3
-`` ':%
-2
-
-`` 
-chess/Rook.apply().b°
-aa *î
-ë
-2
-
-aa *%#
-!org/scalactic/Prettifier.default.Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bx
-ev l
-j
-2
-
-ev Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bx
-fj l
-j
-2
-
-fj Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bI
-ff =:;
-2
-
-ff +
-)org/scalatest/FunSpecLike#ItWord#apply().b5
-gg ):'
-2
-
-gg 
-chess/Bishop.apply().b°
-hh )î
-ë
-2
-
-hh )%#
-!org/scalactic/Prettifier.default.Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   b°
-ii )î
-ë
-2
-
-ii )%#
-!org/scalactic/Prettifier.default.Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bx
-lp l
-j
-2
-
-lp Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bI
-ll =:;
-2
-
-ll +
-)org/scalatest/FunSpecLike#ItWord#apply().b5
-mm ):'
-2
-
-mm 
-chess/Bishop.apply().b°
-nn *î
-ë
-2
-
-nn *%#
-!org/scalactic/Prettifier.default.Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   b°
-oo *î
-ë
-2
-
-oo *%#
-!org/scalactic/Prettifier.default.Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bx
-ru l
-j
-2
-
-ru Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bI
-rr =:;
-2
-
-rr +
-)org/scalatest/FunSpecLike#ItWord#apply().b5
-ss ):'
-2
-
-ss 
-chess/Bishop.apply().b°
-tt *î
-ë
-2
-
-tt *%#
-!org/scalactic/Prettifier.default.Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bz
-	xé m
-k
-2
-	xé Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bx
-y} l
-j
-2
-
-y} Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bI
-yy =:;
-2
-
-yy +
-)org/scalatest/FunSpecLike#ItWord#apply().b5
-zz ):'
-2
-
-zz 
-chess/Knight.apply().b°
-{{ )î
-ë
-2
-
-{{ )%#
-!org/scalactic/Prettifier.default.Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   b°
-|| )î
-ë
-2
-
-|| )%#
-!org/scalactic/Prettifier.default.Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bz
-	É m
-k
-2
-	É Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bI
- =:;
-2
-
- +
-)org/scalatest/FunSpecLike#ItWord#apply().b9
-
-ÄÄ +:)
-2
-
-ÄÄ 
-chess/Knight.apply().b•
-
-ÅÅ *ñ
-ì
-2
-
-ÅÅ *%#
-!org/scalactic/Prettifier.default.Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   b•
-
-ÇÇ *ñ
-ì
-2
-
-ÇÇ *%#
-!org/scalactic/Prettifier.default.Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   b|
-
-Öà n
-l
-2
-
-Öà Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bM
-
-ÖÖ ?:=
-2
-
-ÖÖ +
-)org/scalatest/FunSpecLike#ItWord#apply().b9
-
-ÜÜ +:)
-2
-
-ÜÜ 
-chess/Knight.apply().b•
-
-áá *ñ
-ì
-2
-
-áá *%#
-!org/scalactic/Prettifier.default.Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   b|
-
-äç n
-l
-2
-
-äç Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bM
-
-ää ?:=
-2
-
-ää +
-)org/scalatest/FunSpecLike#ItWord#apply().b9
-
-ãã +:)
-2
-
-ãã 
-chess/Knight.apply().b•
-
-åå *ñ
-ì
-2
-
-åå *%#
-!org/scalactic/Prettifier.default.Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   b|
-
-ê© n
-l
-2
-
-ê© Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   b|
-
-ëî n
-l
-2
-
-ëî Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bM
-
-ëë ?:=
-2
-
-ëë +
-)org/scalatest/FunSpecLike#ItWord#apply().b8
-
-íí *:(
-2
-
-íí 
-chess/Queen.apply().b•
-
-ìì )ñ
-ì
-2
-
-ìì )%#
-!org/scalactic/Prettifier.default.Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   b|
-
-ñô n
-l
-2
-
-ñô Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bM
-
-ññ ?:=
-2
-
-ññ +
-)org/scalatest/FunSpecLike#ItWord#apply().b8
-
-óó *:(
-2
-
-óó 
-chess/Queen.apply().b•
-
-òò )ñ
-ì
-2
-
-òò )%#
-!org/scalactic/Prettifier.default.Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   b|
-
-õû n
-l
-2
-
-õû Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bM
-
-õõ ?:=
-2
-
-õõ +
-)org/scalatest/FunSpecLike#ItWord#apply().b8
-
-úú *:(
-2
-
-úú 
-chess/Queen.apply().b•
-
-ùù )ñ
-ì
-2
-
-ùù )%#
-!org/scalactic/Prettifier.default.Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   b|
-
-†£ n
-l
-2
-
-†£ Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bM
-
-†† ?:=
-2
-
-†† +
-)org/scalatest/FunSpecLike#ItWord#apply().b8
-
-°° *:(
-2
-
-°° 
-chess/Queen.apply().b•
-
-¢¢ *ñ
-ì
-2
-
-¢¢ *%#
-!org/scalactic/Prettifier.default.Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   b|
-
-•® n
-l
-2
-
-•® Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bM
-
-•• ?:=
-2
-
-•• +
-)org/scalatest/FunSpecLike#ItWord#apply().b8
-
-¶¶ *:(
-2
-
-¶¶ 
-chess/Queen.apply().b•
-
-ßß *ñ
-ì
-2
-
-ßß *%#
-!org/scalactic/Prettifier.default.Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   b|
-
-´” n
-l
-2
-
-´” Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   b|
-
-¨Ø n
-l
-2
-
-¨Ø Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bM
-
-¨¨ ?:=
-2
-
-¨¨ +
-)org/scalatest/FunSpecLike#ItWord#apply().b7
-
-≠≠ ):'
-2
-
-≠≠ 
-chess/King.apply().b•
-
-ÆÆ )ñ
-ì
-2
-
-ÆÆ )%#
-!org/scalactic/Prettifier.default.Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   b|
-
-±¥ n
-l
-2
-
-±¥ Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bM
-
-±± ?:=
-2
-
-±± +
-)org/scalatest/FunSpecLike#ItWord#apply().b7
-
-≤≤ ):'
-2
-
-≤≤ 
-chess/King.apply().b•
-
-≥≥ *ñ
-ì
-2
-
-≥≥ *%#
-!org/scalactic/Prettifier.default.Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   b|
-
-∂π n
-l
-2
-
-∂π Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bM
-
-∂∂ ?:=
-2
-
-∂∂ +
-)org/scalatest/FunSpecLike#ItWord#apply().b7
-
-∑∑ ):'
-2
-
-∑∑ 
-chess/King.apply().b•
-
-∏∏ )ñ
-ì
-2
-
-∏∏ )%#
-!org/scalactic/Prettifier.default.Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   b|
-
-ªæ n
-l
-2
-
-ªæ Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bM
-
-ªª ?:=
-2
-
-ªª +
-)org/scalatest/FunSpecLike#ItWord#apply().b7
-
-ºº ):'
-2
-
-ºº 
-chess/King.apply().b•
-
-ΩΩ *ñ
-ì
-2
-
-ΩΩ *%#
-!org/scalactic/Prettifier.default.Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   b|
-
-¿√ n
-l
-2
-
-¿√ Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bM
-
-¿¿ ?:=
-2
-
-¿¿ +
-)org/scalatest/FunSpecLike#ItWord#apply().b7
-
-¡¡ ):'
-2
-
-¡¡ 
-chess/King.apply().b•
-
-¬¬ )ñ
-ì
-2
-
-¬¬ )%#
-!org/scalactic/Prettifier.default.Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   b|
-
-≈» n
-l
-2
-
-≈» Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bM
-
-≈≈ ?:=
-2
-
-≈≈ +
-)org/scalatest/FunSpecLike#ItWord#apply().b7
-
-∆∆ ):'
-2
-
-∆∆ 
-chess/King.apply().b•
-
-«« *ñ
-ì
-2
-
-«« *%#
-!org/scalactic/Prettifier.default.Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   b|
-
- Õ n
-l
-2
-
- Õ Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bM
-
-   ?:=
-2
-
-   +
-)org/scalatest/FunSpecLike#ItWord#apply().b7
-
-ÀÀ ):'
-2
-
-ÀÀ 
-chess/King.apply().b•
-
-ÃÃ *ñ
-ì
-2
-
-ÃÃ *%#
-!org/scalactic/Prettifier.default.Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   b|
-
-œ“ n
-l
-2
-
-œ“ Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   bM
-
-œœ ?:=
-2
-
-œœ +
-)org/scalatest/FunSpecLike#ItWord#apply().b7
-
-–– ):'
-2
-
-–– 
-chess/King.apply().b•
-
-—— *ñ
-ì
-2
-
-—— *%#
-!org/scalactic/Prettifier.default.Z
-X
-P:N
-" 
-org/scalactic/source/Position.(
-&org/scalactic/source/Position.apply().   

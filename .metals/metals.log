@@ -3044,3 +3044,121 @@ INFO  time: connected to build server in 4.17s
 INFO  Connected to Build server v1.4.0-RC1-190-ef7d8dba
 INFO  time: imported build in 0.23s
 INFO  time: indexed workspace in 6.09s
+INFO  compiling root-test (1 scala source)
+INFO  time: compiled root-test in 11s
+INFO  compiling root-test (1 scala source)
+INFO  time: compiled root-test in 6.03s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 1.09s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.4s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 4.2s
+INFO  shutting down Metals
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
+INFO  started: Metals version 0.8.4 in workspace 'C:\Users\onefi\source\repos\scala-chess'
+INFO  time: initialize in 3.46s
+INFO  skipping build import with status 'Installed'
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 12459'...
+Waiting for the bsp connection to come up...
+WARN  no build target for: C:\Users\onefi\source\repos\scala-chess\src\main\scala\chess\chess.scala
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:12459...
+The server is listening for incoming connections at tcp://127.0.0.1:12459...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\onefi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+INFO  time: connected to build server in 3.92s
+INFO  Connected to Build server v1.4.0-RC1-190-ef7d8dba
+INFO  time: imported build in 0.21s
+INFO  shutting down Metals
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
+INFO  started: Metals version 0.8.4 in workspace 'C:\Users\onefi\source\repos\scala-chess'
+INFO  time: initialize in 3.33s
+INFO  skipping build import with status 'Installed'
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 41385'...
+Waiting for the bsp connection to come up...
+WARN  no build target for: C:\Users\onefi\source\repos\scala-chess\src\main\scala\chess\chess.scala
+WARN  no build target for: C:\Users\onefi\source\repos\scala-chess\src\main\scala\chess\game.scala
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+No server running at 127.0.0.1:8212, let's fire one...
+Resolving ch.epfl.scala:bloop-frontend_2.12:1.4.0-RC1-190-ef7d8dba...
+Starting bloop server at 127.0.0.1:8212...
+Attempting a connection to the server...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Loading 2 projects from 'c:\Users\onefi\source\repos\scala-chess\.bloop'...
+[0m[32m[D][0m Loading project from 'c:\Users\onefi\source\repos\scala-chess\.bloop\root-test.json'
+[0m[32m[D][0m Loading project from 'c:\Users\onefi\source\repos\scala-chess\.bloop\root.json'
+[0m[32m[D][0m Cache miss for scala instance org.scala-lang:scala-compiler:2.13.1.
+[0m[32m[D][0m   => C:\Users\onefi\source\repos\scala-chess\null\Coursier\cache\v1\https\repo1.maven.org\maven2\jline\jline\2.14.6\jline-2.14.6.jar
+[0m[32m[D][0m   => C:\Users\onefi\source\repos\scala-chess\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\fusesource\jansi\jansi\1.12\jansi-1.12.jar
+[0m[32m[D][0m   => C:\Users\onefi\source\repos\scala-chess\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-compiler\2.13.1\scala-compiler-2.13.1.jar
+[0m[32m[D][0m   => C:\Users\onefi\source\repos\scala-chess\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.1\scala-library-2.13.1.jar
+[0m[32m[D][0m   => C:\Users\onefi\source\repos\scala-chess\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-reflect\2.13.1\scala-reflect-2.13.1.jar
+[0m[32m[D][0m Configured SemanticDB in projects 'root-test', 'root'
+[0m[32m[D][0m Loading previous analysis for 'root' from 'C:\Users\onefi\source\repos\scala-chess\target\streams\compile\bloopAnalysisOut\_global\streams\inc_compile_2.13.zip'.
+[0m[32m[D][0m Loading previous analysis for 'root-test' from 'C:\Users\onefi\source\repos\scala-chess\target\streams\test\bloopAnalysisOut\_global\streams\inc_compile_2.13.zip'.
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:41385...
+The server is listening for incoming connections at tcp://127.0.0.1:41385...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\onefi\AppData\Local\scalameta\metals\cache\bsp.trace.json
+INFO  time: connected to build server in 14s
+INFO  Connected to Build server v1.4.0-RC1-190-ef7d8dba
+INFO  time: imported build in 0.27s
+INFO  time: indexed workspace in 4.74s
+INFO  compiling root (2 scala sources)
+INFO  compiling root-test (1 scala source)
+ERROR text document: file:///C:/Users/onefi/source/repos/scala-chess/src/main/scala/chess/game.scala
+java.nio.file.FileSystemException: C:\Users\onefi\source\repos\scala-chess\.bloop\root\bloop-bsp-clients-classes\classes-Metals-fTFDNoHLSE2tL7yI4FoJBA==\META-INF\semanticdb\src\main\scala\chess\game.scala.semanticdb: The process cannot access the file because it is being used by another process.
+
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:92)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:235)
+	at java.nio.file.Files.newByteChannel(Files.java:370)
+	at java.nio.file.Files.newByteChannel(Files.java:421)
+	at java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:420)
+	at java.nio.file.Files.newInputStream(Files.java:155)
+	at scala.meta.internal.mtags.Semanticdbs$.loadTextDocuments(Semanticdbs.scala:24)
+	at scala.meta.internal.mtags.Semanticdbs$.loadResolvedTextDocument(Semanticdbs.scala:65)
+	at scala.meta.internal.mtags.Semanticdbs$.loadTextDocument(Semanticdbs.scala:51)
+	at scala.meta.internal.metals.FileSystemSemanticdbs.textDocument(FileSystemSemanticdbs.scala:32)
+	at scala.meta.internal.metals.AggregateSemanticdbs.loop$1(AggregateSemanticdbs.scala:28)
+	at scala.meta.internal.metals.AggregateSemanticdbs.textDocument(AggregateSemanticdbs.scala:34)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:16)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeLens$1(MetalsLanguageServer.scala:1186)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:24)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:834)
+
+INFO  time: compiled root in 18s
+INFO  time: compiled root-test in 11s
+Apr 29, 2020 11:39:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 315
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 3.45s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 2.42s
